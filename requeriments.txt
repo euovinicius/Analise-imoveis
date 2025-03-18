@@ -1,0 +1,3 @@
+pip install pandas numpy scikit-learn plotly streamlit google-colab seaborn matplotlib
+
+
